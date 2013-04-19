@@ -8,5 +8,6 @@
 public class HelloGit {
     public static void main(String[] args) {
         System.out.println("hello git!");
+        System.out.println("alreaday put this in github.see it commited");
     }
 }
